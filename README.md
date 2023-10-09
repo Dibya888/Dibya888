@@ -29,6 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibya888&" alt="dibya888" /></p>
 
-<a href='https://holopin.io/@vinitshahdeo'>
-    <img src='https://holopin.onrender.com/vinitshahdeo'/>
-</a>
+[![An image of @dibya888's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dibya888)](https://holopin.io/@dibya888)
