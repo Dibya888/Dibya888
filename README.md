@@ -29,4 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibya888&" alt="dibya888" /></p>
 
-<p align="center">[![Holopin](https://holopin.onrender.com/dibya888)](https://holopin.io/@dibya888)</p>
+<a href='https://holopin.io/@vinitshahdeo'>
+    <img src='https://holopin.onrender.com/vinitshahdeo'/>
+</a>
