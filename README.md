@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibya888&" alt="dibya888" /></p>
 
-<p align="center">[![Holopin](https://holopin.onrender.com/vinitshahdeo)](https://holopin.io/@vinitshahdeo)</p>
+<p align="center">[![Holopin](https://holopin.onrender.com/dibya888)](https://holopin.io/@dibya888)</p>
