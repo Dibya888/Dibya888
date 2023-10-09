@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Dibya</h1>
 <h3 align="center">CSE graduate with sharp attention to detail, specializing in software testing. Expert in analyzing and improving software quality, defect identification, and seamless team collaboration. Dedicated to enhancing user experiences and ensuring software reliability.</h3>
 
