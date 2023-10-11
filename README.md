@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [dibyajyotidhar.github.io](dibyajyotidhar.github.io)
 
-- 📫 How to reach me **dibya.dhar@northsouth.edu, dibya.dhar@ywctc.onmicrosoft.com**
+- 📫 How to reach me **dibya.dhar@northsouth.edu, dibya.dhar8@ywctc.onmicrosoft.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
