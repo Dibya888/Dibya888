@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Software Quality Assurance, The Complete 2023 Software Testing Bootcamp, Test Automation for Beginners [Selenium-Cypress-Playwright]**
 
-- 👨‍💻 All of my projects are available at [dibyajyotidhar.github.io](dibyajyotidhar.github.io)
+- 👨‍💻 All of my projects are available at (dibyajyotidhar.github.io)
 
 - 📫 How to reach me **dibya.dhar@northsouth.edu, dibya.dhar8@ywctc.onmicrosoft.com**
 
