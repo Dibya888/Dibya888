@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dibya</h1>
-<!-- <h3 align="center">CSE graduate with sharp attention to detail, specializing in software testing. Expert in analyzing and improving software quality, defect identification, and seamless team collaboration. Dedicated to enhancing user experiences and ensuring software reliability.</h3> -->
+<!-- <h3 align="center">CSE graduate with sharp attention to detail, specializing in software testing. Expert in analyzing and improving software quality, defect identification, and seamless team collaboration. Dedicated to enhancing user experiences and ensuring software reliability.  </h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibya888&label=Profile%20views&color=0e75b6&style=flat" alt="dibya888" /> </p>
 
