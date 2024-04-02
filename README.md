@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibya888" alt="dibya888" /></a> </p>
 
-<!-- - 🔭 I’m currently focusing on **Software Quality Assurance**
+<!-- - 🔭 I’m currently focusing on **Software Quality Assurance **
 
 - 🌱 I’m currently learning **Software Quality Assurance, The Complete 2023 Software Testing Bootcamp, Test Automation for Beginners [Selenium-Cypress-Playwright]** -->
 
